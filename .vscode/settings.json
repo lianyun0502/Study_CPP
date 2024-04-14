@@ -5,6 +5,8 @@
         "xstring": "cpp",
         "istream": "cpp",
         "ostream": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "ios": "cpp",
+        "xiosbase": "cpp"
     }
 }
